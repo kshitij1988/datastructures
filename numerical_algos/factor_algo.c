@@ -18,7 +18,7 @@ int main()
 		i++;
 	}
 	factor = 3;
-	while(factor<stop)
+	while(factor<=stop)
 	{
 		while(number%factor == 0)
 		{
